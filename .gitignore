@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ChannelEngine
+/ChannelEngine.ConsoleApp/bin/Debug/net5.0
+/ChannelEngine.ConsoleApp/obj
+/ChannelEngine.Core/bin/Debug/net5.0
+/ChannelEngine.Core/obj
+/ChannelEngine.Integration/bin/Debug/net5.0
+/ChannelEngine.Integration/obj
+/ChannelEngine.Shared/bin/Debug/net5.0
+/ChannelEngine.Shared/obj
+/ChannelEngine.Web/bin/Debug/net5.0
+/ChannelEngine.Web/obj
